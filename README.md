@@ -14,5 +14,5 @@ API test to query and Validate Trade Me Charities and Books
 1. Import project into Eclipse
 2. Right click on testng.xml and run as TestNG suite.              
      *Note: a. Tests class files are under getRequest package (src/test/java).*
-            b. TestNG.XML configured to have all 4 tests included in the same run.
-            c. utils package can be ignored as was initially intended for parameterization.
+            *b. TestNG.XML configured to have all 4 tests included in the same run.*
+            *c. utils package can be ignored as was initially intended for parameterization.*
