@@ -1,8 +1,9 @@
 # RestAssuredAPI
 API test to query and Validate Trade Me Charities and Books
-API Endpoint
-a. Charities: https://api.trademe.co.nz/v1/Charities.json
-b. Books: https://api.trademe.co.nz/v1/Categories/0193-.json
+
+      *API Endpoint*
+            a. Charities: https://api.trademe.co.nz/v1/Charities.json
+            b. Books: https://api.trademe.co.nz/v1/Categories/0193-.json
 
 **Prerequisites**
 1. Install Java 8 or above
