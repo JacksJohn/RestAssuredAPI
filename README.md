@@ -8,14 +8,16 @@ API test to query and Validate Trade Me Charities and Books
         
 **Prerequisites**
 
-Install Java 8 or above
-Install Maven
-Add TestNG plugins
+1. Install Java 8 or above
+2. Install Maven
+3. Add TestNG plugins
 
 **Running the tests**
 
-Import project into Eclipse
-Right click on testng.xml and run as TestNG suite.
+1. Import project into Eclipse
+2. Right click on testng.xml and run as TestNG suite.
+
+
 **Note:** 
 _a. Tests class files are under getRequest package (src/test/java). 
 b. TestNG.XML configured to have all 4 tests included in the same run. 
