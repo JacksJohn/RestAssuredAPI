@@ -1,4 +1,5 @@
 **RestAssuredAPI**
+
 API test to query and Validate Trade Me Charities and Books
 
   **API**
@@ -21,5 +22,7 @@ API test to query and Validate Trade Me Charities and Books
 
 **Note:** 
 _a. Tests class files are under getRequest package (src/test/java). 
+
 b. TestNG.XML configured to have all 4 tests included in the same run. 
+
 c. utils package can be ignored as was initially intended for parameterization._
