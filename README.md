@@ -17,3 +17,9 @@ API test to query and Validate Trade Me Charities and Books
 3. Right click on testng.xml and run as TestNG suite.
         Note: The following are configured to be part of the single run .i.e. Test to retrieve and validate Charity and test to validate books
               
+<classes>
+      <class name="getRequest.TC02a_searchValidateCharityPosTest"/>
+      <class name="getRequest.TC02b_searchValidateCharityNegTest"/>   
+      <class name="getRequest.TC03a_ValidateQueryBookPass"/>
+      <class name="getRequest.TC03b_ValidateQueryBookFail"/>
+    </classes>
